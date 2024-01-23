@@ -1,3 +1,3 @@
 # Headline
 
-> TKU - A test repo for testing workflows.
+> TKU - A test repo for testing internal git workflows.
